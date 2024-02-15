@@ -1,0 +1,10 @@
+body {
+    background-image: image();
+    background-color: beige;
+}
+
+.container {
+    border: 1px solid lightgrey;
+    background-color: white;
+    height: 100vh;
+}
